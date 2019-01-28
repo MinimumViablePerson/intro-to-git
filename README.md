@@ -5,6 +5,6 @@
 ### Learn about Git
 
 - [x] Cloning a repo
-- [] Staging files
-- [] Committing staged files
-- [] Pushing a commit remotely
+- [x] Staging files
+- [x] Committing staged files
+- [x] Pushing a commit remotely
