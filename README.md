@@ -5,7 +5,15 @@
 
 ### Learn about Git
 
-- [x] Cloning a repo
-- [x] Staging files
-- [x] Committing staged files
-- [x] Pushing a commit remotely
+#### Getting things started
+- [ ] Cloning a repo
+- [ ] Staging files
+- [ ] Committing staged files
+- [ ] Pushing a commit remotely
+
+#### Branching & Merging
+- [ ] Creating a new branch
+- [ ] Committing & pushing as usual
+- [ ] Switching between branches
+- [ ] Pushing new branch remotely
+- [ ] Merging back into master
